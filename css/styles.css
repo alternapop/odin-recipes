@@ -1,0 +1,19 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    color: rgb(26, 26, 159);
+    background-color: rgb(192, 199, 246);
+    margin: 10px 30px;
+    padding: 5px;
+}
+
+.recipes {
+    width: 500px;
+}
+
+.recipe-links a {
+    color: rgb(92, 92, 157);
+    text-decoration: none;
+}
